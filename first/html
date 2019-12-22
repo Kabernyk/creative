@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
+  <meta name=viewport content="width=700">
     <title>Dream for chil</title>
 </head>
 <body>
-<a class="but" type="button"onClick='location.href="http://htmlpreview.github.io/?https://github.com/Kabernyk/creative/blob/master/first/html2"' href="#">Тільки не натискай сюди! </a>
+<a class="but" type="button"onClick='location.href="http://htmlpreview.github.io/?https://github.com/Kabernyk/creative/blob/master/first/html2"'>Тільки не натискай сюди! </a>
 
 
 <style>
@@ -65,9 +67,9 @@ a:hover:before {
   body {
   text-align: center;
   font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
-  background: url(https://images11.esquire.ru/upload/img_cache/b96/b96e51aeabeb238fda2603f66d6b48a0_ce_920x574x50x0_cropped_960x600.jpg) ;
+  background: url(https://images11.esquire.ru/upload/img_cache/b96/b96e51aeabeb238fda2603f66d6b48a0_ce_920x574x50x0_cropped_960x600.jpg);
   background-color: #fff;
-  background-size: 60%;
+  background-size: 50%;
   height:100%;
 
 }
