@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<a class="but" type="button"onClick='location.href="http://codehelper.ru/"' href="#">ТЕПЕР ТОЧНО НЕ НАТИСКАЙ!!!!! </a>
+<body>
+
+
+
+<style>
+  body {background: #ffbfbe;}
+a {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  padding: 10px 30px;
+  margin: 10px 20px;
+  position: relative;
+  overflow: hidden;
+  border: 2px solid #fe6637;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fe6637;
+  transition: .2s ease-in-out;
+}
+a:before {
+  content: "";
+  background: linear-gradient(90deg, rgba(255,255,255,.1), rgba(255,255,255,.5));
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: -8px;
+  left: -75px;
+  transform: skewX(-45deg);
+}
+a:hover {
+  background: #fe6637;
+  color: #fff;
+}
+a:hover:before {
+  left: 150px;
+  transition: .5s ease-in-out;
+}
+   body{
+  padding:0;
+  margin:0;
+  background:#ffd200;
+ }
+ .but{
+  font-size:4em;
+  margin:0;
+  padding:0;
+  text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translateX(-50%) translateY(-40%);
+
+ }
+
+body {
+  text-align: center;
+  font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
+  background: url(https://i.gifer.com/48h9.gif);
+  background-color: #fff;
+  background-size: 100%;
+  height:100%;
+
+}
+</style>
+</body>
+</html>
