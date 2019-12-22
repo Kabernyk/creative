@@ -67,11 +67,13 @@ a:hover:before {
   body {
   text-align: center;
   font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
-  background: url(https://images11.esquire.ru/upload/img_cache/b96/b96e51aeabeb238fda2603f66d6b48a0_ce_920x574x50x0_cropped_960x600.jpg);
+  background: url(https://images11.esquire.ru/upload/img_cache/b96/b96e51aeabeb238fda2603f66d6b48a0_ce_920x574x50x0_cropped_960x600.jpg) no-repeat 0 0/cover;;
   background-color: #fff;
   background-size: 70%;
-  height:100%;
-  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+ 
 
 }
 
