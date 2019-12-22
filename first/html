@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-  <meta name=viewport content="width=700">
     <title>Dream for chil</title>
 </head>
 <body>
@@ -68,7 +67,7 @@ a:hover:before {
   font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
   background: url(https://images11.esquire.ru/upload/img_cache/b96/b96e51aeabeb238fda2603f66d6b48a0_ce_920x574x50x0_cropped_960x600.jpg) ;
   background-color: #fff;
-  background-size: 70%;
+  background-size: 60%;
   height:100%;
 
 }
