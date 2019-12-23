@@ -7,7 +7,7 @@
     <title>Dream for chil</title>
 </head>
 <body>
-<a class="but" type="button"onClick='location.href="https://github.com/Kabernyk/creative/blob/master/first/html2"'>Тільки не натискай сюди! </a>
+<a class="but" type="button"onClick='location.href="http://htmlpreview.github.io/?https://github.com/Kabernyk/creative/blob/master/first/html2"'>Тільки не натискай сюди! </a>
 
 
 <style>
