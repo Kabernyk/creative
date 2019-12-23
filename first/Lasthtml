@@ -59,7 +59,7 @@
      margin: 0;
   text-align: center;
   font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
-  background: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG) no-repeat;
+  background: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
   background-color: #fff;
   background-size: 80%;
 }
