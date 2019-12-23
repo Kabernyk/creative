@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <title>ChillInvate</title>
+</head>
+<body>
+<div>
+
+<center>
+<p style="border: 5px outset #00BFFF; height: 220px; padding: 20px; width: 460px; text-color:#00BFFF">
+<font color="#00BFFF"> Привіт! </font>
+<br>
+
+<font color="#00BFFF"> Хух, як добре, що ти все ж натиснув(ла) і ти можеш це читати!
+  Ти вже знаєш, що 9 січня ми збираємося в Харкові на
+  школі наставників. Пропонуємо поєднати корисне з приємним
+  і приєднатися до супер-вечірки F R I E N D S thanksgiving
+  за мотивами улюбленця нашої молодості (в когось - юності)
+  серіалу “Друзі”! Так, ми знаємо, що день подяки вже давно
+  минув,б але ж ніколи не пізно зібратися і подякувати один
+  одному, і просто провести разом час.
+Ми придумали багато чого веселого і трохи більше, але нам
+  потрібна твоя допомога, щоб ми створили цей вечір разом!
+  Просимо команду в якій ти працюєш створити меми про
+  життя-буття в УАЛ.
+
+P.S. Маємо також дрес код вечірки - це стиль героїв серіалу “Друзі”.
+</font>
+</p>
+</center>
+
+    <img style="position: fixed; top: 0; right: 0;" src="https://ual.ua/wp-content/uploads/2017/05/logo-t.png">
+
+
+</div>
+ </body>
+
+<style>
+
+  body {
+ background-image: url('https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2019/08/01/4D00359D-1200-4423-A1DE-8E6D37F20C27/58.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ -ms-background-size: cover;
+ background-size: cover;
+}
+  .post-info {
+  padding-top: 35px;
+}
+
+</style>
