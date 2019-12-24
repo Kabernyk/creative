@@ -6,58 +6,22 @@
     <title>ChillInvate</title>
 </head>
 <body>
- <img style="position: fixed; top: 0; right: 0;" src="https://ual.ua/wp-content/uploads/2017/05/logo-t.png"><br>
- <br>
-<br>
-<br>
-<br>
-<br>
- <br>
-
-<div id="right"><div class="content"><font align="center" color="#00BFFF"><p>
-
-  Привіт! &emsp; &emsp;<br>
-                      Хух, як добре, що ти все ж натиснув(ла)<br>
-                      і ти можеш це читати! Ти вже знаєш,що 9
-                      січня ми збираємося в Харкові на школі <br>
-                      наставників. Пропонуємо поєднати корисне
-                      з приємним і приєднатися до супер-вечірки <br>
-                      F R I E N D S thanksgiving за мотивами
-                      улюбленця нашої молодості(в когось - юності)<br>
-                      серіалу “Друзі”! Так, ми знаємо, що день
-                      подяки вже давно минув, але ж ніколи не  <br>
-                      пізно зібратися і подякувати один одному,
-                      і просто провести разом час.Ми придумали <br>
-                      багато чого веселого і трохи більше, але
-                      нам потрібна твоя допомога, щоб ми створили <br>
-                      цей вечір разом! Просимо команду в якій ти
-                      працюєш створити меми про життя-буття в УАЛ.<br>
-                      P.S. Маємо також дрес код вечірки - це стиль
-героїв серіалу “Друзі”.<br></center></p>
-
- </p>
-</font>
-</div></div>
 
 
 
-
-</div>
  </body>
 
 <style>
-    .right { text-align: center;
-      position:fixed;
-    }
+  
   body {
 
-  background-image: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
+  background-image: url(https://i.ibb.co/xLz3tQz/image.png);
 
   background-position: left top;
 
   background-repeat: no-repeat;
 
- 
+  background-attachment: fixed;
 
   background-size: cover;
 
@@ -71,7 +35,7 @@
 
   body {
 
-  background-image: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
+  background-image: url(https://i.ibb.co/xLz3tQz/image.png);
 
   }
 
@@ -81,4 +45,3 @@
 
 
 </style>
-
