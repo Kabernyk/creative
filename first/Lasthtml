@@ -55,13 +55,13 @@
 
   background-image: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
 
-  background-position: left;
+  background-position: left top;
 
   background-repeat: no-repeat;
 
   background-attachment: fixed;
 
-  background-size: 80%;
+  background-size: cover;
 
   background-color:#ffffff;
 
@@ -83,3 +83,4 @@
 
 
 </style>
+
