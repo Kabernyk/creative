@@ -6,11 +6,22 @@
     <title>ChillInvate</title>
 </head>
 <body>
+ <img style="position: fixed; top: 0; right: 0;" src="https://ual.ua/wp-content/uploads/2017/05/logo-t.png"><br>
+ <br>
+<br>
+<br>
+<br>
+<br>
+ <br>
+<br>
+<br>
+<br>
+<br>
 
-<div id="right"><div class="content"><font align="justify"><p>
+<div id="right"><div class="content"><p><center>
 
-  Привіт! &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; <br></font>
-<font align="justify" > Хух, як добре, що ти все ж натиснув(ла)&emsp;<br>
+  Привіт! &emsp; &emsp;<br>
+  Хух, як добре, що ти все ж натиснув(ла)&emsp;<br>
                       і ти можеш це читати! Ти вже знаєш,що 9 &emsp;<br>
                       січня ми збираємося в Харкові на школі &emsp;<br>
                       наставників. Пропонуємо поєднати корисне &emsp;<br>
@@ -26,12 +37,12 @@
                       цей вечір разом! Просимо команду в якій ти &emsp;<br>
                       працюєш створити меми про життя-буття в УАЛ.&emsp;<br>
                       P.S. Маємо також дрес код вечірки - це стиль&emsp;<br>
-героїв серіалу “Друзі”.&emsp;<br></p>
+героїв серіалу “Друзі”.&emsp;<br></center></p>
 
  </p>
 </font>
 </div></div>
-<img style="position: fixed; bottom: 0; right: 0;" src=""><br>
+
 
 
 
@@ -39,20 +50,26 @@
  </body>
 
 <style>
-
-
-   #right { text-align: right; }
-
-
-
-   body {
-     margin: 0;
+body {
   text-align: center;
   font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
-  background: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
+  background: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
   background-color: #fff;
-  background-size: 80%;
+  background-size: 100%;
+  height:100%;
+  object-fit: cover;
+
 }
 
+
+  @media only screen and (max-width: 767px) {
+
+  body {
+
+  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
+
+  }
+
+}
 </style>
 
