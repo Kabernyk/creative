@@ -50,26 +50,35 @@
  </body>
 
 <style>
-body {
-  text-align: center;
-  font-family: 'Roboto', 'Geneva', 'Arial', 'Helvetica', sans-serif;
-  background: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313) no-repeat;
-  background-color: #fff;
-  background-size: 100%;
-  height:100%;
-  object-fit: cover;
+  body {
+
+  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
+
+  background-position: center center;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  background-color:#464646;
 
 }
 
+/* For mobile devices */
 
-  @media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
 
   body {
 
-  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313) no-repeat;
+  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
 
   }
 
 }
-</style>
 
+
+
+
+</style>
