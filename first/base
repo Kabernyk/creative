@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html><head><content=text/html; charset=windows-1251>
+<title>Таблица тегов HTML: основной инструмент для создания сайта.</title>
+</head>
+<body>
+<button><h1><center><font color="Black">Таблица тегов HTML</font></center></h1>
+<p><table bgcolor="White" border="1" cellspacing="0" width="100%">       
+        <tbody><tr valign="top">
+          <td colspan="2" valign="top" bgcolor="#ddddd" width="600"><font color="BLACK" class="title"><center>ОСНОВНЫЕ ТЕГИ</center></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;html&gt;&lt;/html&gt;  
+            </font></font></tt></td>
+          <td align="left"><font class="RED">Указывает 
+            браузеру, что это HTML документ.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;head&gt;&lt;/head&gt; 
+            </font></font></td>
+          <td align="left"><font class="RED">Указывает 
+            место, где помещается различная информация не отображаемая в теле 
+            документа. Здесь располагается тег названия документа и теги для 
+            поисковиков.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body&gt;&lt;/body&gt; 
+            </font></font></td>
+          <td align="left"><font class="RED">Определяет 
+            видимую часть документа</font> </td>
+        </tr><tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ТЕГИ ОГЛАВЛЕНИЯ</center>
+          </font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;title&gt;&lt;/title&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Название страницы</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>АТРИБУТЫ ТЕЛА ДОКУМЕНТА</center>
+</font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body bgcolor=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Цвет фона странички</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body text=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Цвет текста</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body link=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Устанавливает цвет гиперссылок.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body vlink=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Устанавливает цвет гиперссылок 
+            на которых вы уже побывали.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;body alink=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Устанавливает цвет гиперссылок 
+            при нажатии.</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ТЕГИ  ФОРМАТИРОВАНИЯ ТЕКСТА</center> </font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;pre&gt;&lt;/pre&gt;</font></font></td>
+          <td align="left"><font class="normal">Обрамляет 
+            предварительно отформатированный текст.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;h1&gt;&lt;/h1&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            САМЫЙ БОЛЬШОЙ заголовок</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;h6&gt;&lt;/h6&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            <small>самый маленький</small> заголовок</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;b&gt;&lt;/b&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            жирый текст</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;i&gt;&lt;/i&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            наклонный текст</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;tt&gt;&lt;/tt&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            текст - имитирующий стиль печатной машинки.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;cite&gt;&lt;/cite&gt;</font></font></td>
+          <td align="left"><font class="normal">Используется для цитат, обычно 
+            наклонный текст.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED" class="normal"><font size="4">&lt;em&gt;&lt;/em&gt;</font></font></td>
+          <td align="left"><font class="normal">Используется для выделения из 
+            текста слова (наклонный или жирный текст)</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;font 
+            size=?&gt;&lt;/font&gt; </font></font></td>
+          <td align="left"><font class="normal">Определяет размер текста в 
+            пределах от 1 до 7.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED" class="normal"><font size="4">&lt;font 
+            color=?&gt;&lt;/font&gt; </font></font></td>
+          <td align="left"><font class="normal">Определяет цвет текста</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ГИПЕРССЫЛКИ</center></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;a 
+            href="URL"&gt;&lt;/a&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Создает 
+            ссылку на другие страницы и сайты</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;a 
+            href="mailto:EMAIL"&gt;<br>&lt;/a&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            гиперссылку для отправки письма по почте</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;a 
+            name="NAME"&gt;&lt;/a&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            часть текста как  гипперссылку.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;a 
+            href="#NAME"&gt;&lt;/a&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            гиперссылку на страницу.</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ФОРМАТИРОВАНИЕ ТЕКСТА</center></font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;p&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            новый параграф</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;p 
+          align=?&gt;</font></font></td>
+          <td align="left"><font class="normal">Выравнивает 
+            параграф относительно одной из сторон документа, значения:<font color="red"><font size="4"> left, 
+            right, justify или center</font></font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;br&gt;</font></font></td>
+          <td align="left"><font class="normal">Вставляет 
+            перевод строки.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;blockquote&gt;<br>&lt;/blockquote&gt;</font> 
+          </font></td>
+          <td align="left"><font class="normal">Определяет 
+            отступы с обеих сторон текста.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;dl&gt;&lt;/dl&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            список определений.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;dt&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            каждый из терминов списка</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;dd&gt;</font></font></td>
+          <td align="left"><font class="normal">Описывает 
+            каждое определение</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;ol&gt;&lt;/ol&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            нумерованный список</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;li&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Определяет 
+            каждый элемент списка и присваивает номер</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;ul&gt;&lt;/ul&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            ненумерованный список</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;li&gt; </font></font></td>
+
+          <td align="left"><font class="normal">Предваряет 
+            каждый элемент списка и добавляет кружок или квадратик.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;div align=?&gt; 
+            </font></font></td>
+          <td align="left"><font class="normal">Важный тег 
+            используемый для форматирования больших блоков текста HTML 
+            документа, также используется в таблицах стилей</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ГРАФИЧЕСКИЕ ЭЛЕМЕНТЫ</center>
+            </font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;img 
+            src="name"&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Добавляет 
+            графику в HTML документ</font></td></tr>
+
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;img src="name" 
+            align=?&gt;</font></font></td>
+          <td align="left"><font class="normal">Выравнивает 
+            изображение к одной из сторон документа, принимает значения:<font color="red"><font size="4"> left, 
+            right, center; bottom, top, middle</font></font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;img src="name" 
+            border=?&gt;</font></font></td>
+          <td align="left"><font class="normal">Устанавливает толщину рамки 
+            вокруг изображения</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;hr&gt;</font></font></td>
+          <td align="left"><font class="normal">Добавляет в 
+            HTML документ горизонтальную линию.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="rED"><font size="4">&lt;hr 
+          size=?&gt;</font></font></td>
+          <td align="left"><font class="normal">Устанавливает высоту(толщину) 
+            линии</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;hr 
+            width=?&gt;</font></font></td>
+          <td align="left"><font class="normal">Устанавливает ширину линии, 
+            можно указать ширину в пикселах или процентах.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;hr 
+            noshade&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            линию без тени.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;hr 
+            color=?&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Задает 
+            линии определенный цвет. </font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><pre></pre><font color="BLACK" class="title"><center>ТАБЛИЦЫ</center></font>
+
+        </td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;table&gt;&lt;/table&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Создает 
+            таблицу.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;tr&gt;&lt;/tr&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Определяет 
+            строку в таблице.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;td&gt;&lt;/td&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            отдельную ячейку в таблице.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;th&gt;&lt;/th&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            заголовок таблицы (нормальная ячейка с отцентрованным жирным 
+            текстом)</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>АТРИБУТЫ ТАБЛИЦЫ </center>
+</font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;table 
+            border=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Задает 
+            толщину рамки таблицы.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;table 
+            cellspacing=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Задает 
+            расстояние между ячейками таблицы.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="rED"><font size="4">&lt;table 
+            cellpadding=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Задает 
+            расстояние между содержимым ячейки и ее рамкой.</font></td></tr>
+
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;table 
+            width=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Устанавливает ширину таблицы в 
+            пикселах или процентах от ширины документа.</font></td></tr>
+        <tr>
+
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;tr align=?&gt; или 
+            &lt;td align=?&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Устанавливает выравнивание ячеек 
+            в таблице, принимает значения:<font color="red"><font size="4"> left, center, или right.</font></font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;tr valign=?&gt; или 
+            &lt;td valign=?&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Устанавливает вертикальное 
+            выравнивание для ячеек таблицы, принимает значения :<font color="red"><font size="4"> top, middle, 
+            или bottom.</font></font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;td 
+            colspan=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Указывает 
+            кол-во столбцев которое объединено в одной ячейке. (по 
+            умолчанию=1)</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;td 
+            rowspan=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Указывает 
+            кол-во строк которое объединено в одной ячейке. (по 
+            умолчанию=1)</font></td></tr>
+        <tr>
+          <td align="" left="" valign="top"><font color="RED"><font size="4">&lt;td 
+          nowrap&gt;</font></font></td>
+          <td align="left"><font class="normal">Не 
+            позволяет программе просмотра делать перевод строки в ячейке 
+            таблицы.</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ФРЕЙМЫ</center></font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frameset&gt;&lt;/frameset&gt;</font></font></td>
+          <td align="left">Предваряет 
+            тег<font color="RED"><font size="4"> &lt;body&gt;</font></font><font class="normal">в документе, содержащем фреймы;</font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frameset 
+            rows="value,value"&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Определяет 
+            строки в таблице фреймов, высота которых определена кол-вом пикселов 
+            или в процентном соотношении к высоте таблицы фреймов.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frameset 
+            cols="value,value"&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            столбцы в таблице фреймов, ширина которых определена кол-вом 
+            пикселов или в процентном соотношении к ширине таблицы 
+            фреймов.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Определяет 
+            единичный фрейм или область в таблице фреймов.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;noframes&gt;&lt;/noframes&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет, 
+            что будет показано в окне браузера если он не поддерживает 
+            фреймы.</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>АТРИБУТЫ ФРЕЙМОВ</center>
+
+</font>
+</td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            src="URL"&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            какой из HTML документов будет показан во фрейме.</font></td></tr>
+        <tr>
+
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            name="name"&gt;</font></font></td>
+          <td align="left"><font class="normal">Указывает 
+            Имя фрейма или области, что позволяет перенаправлять информацию в 
+            этот фреймр или область из других фреймов.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            marginwidth=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            величину отступов по левому и правому краям фрейма; должно быть равно 
+            или больше 1.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            marginheight=#&gt;</font></font></td>
+          <td align="left"><font class="normal">Определяет 
+            величину отступов по верхнему и нижнему краям фрейма; должно быть 
+            равно или больше 1.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            scrolling=VALUE&gt;</font></font></td>
+          <td align="left"><font class="normal">Указывает 
+            будет-ли выводится линейка прокрутки во фрейме; значение value может 
+            быть "yes," "no," или "auto". Значение по умолчанию для обычных 
+            документов - auto. </font>
+            <p></p></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;frame 
+            noresize&gt;</font></font></td>
+          <td align="left"><font class="normal">Препятствует изменению размеров 
+            фрейма.</font></td></tr>
+        <tr>
+          <td colspan="2" bgcolor="#ddddd" width="100%"><font color="BLACK" class="title"><center>ФОРМЫ</center> </font>
+</td></tr>
+        <tr>
+          <td colspan="2"><font class="normal"></font><center><font class="normal">Формовые теги задают только внешний вид почтовым элементам на WEB-странице. Но без специальных PHP-скриптов, которые должны быть на сервере, они не могут быть запущены.
+    </font></center></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;form&gt;&lt;/form&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Создает 
+            формы</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;select multiple 
+            name="NAME" size=?&gt;&lt;/select&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            скролируемое меню.<font color="red"> Size</font> устанавливает кол-во пунктов меню, которое 
+            будет показано на экране, остальные будут доступны при использовании 
+            прокрутки.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;option&gt; 
+          </font></font></td>
+
+          <td align="left"><font class="normal">Указывает 
+            каждый отдельный элемент меню</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;select 
+            name="NAME"&gt;&lt;/select&gt; </font></font></td>
+          <td align="left"><font class="normal">Создает 
+            ниспадающее меню </font>
+            <p></p>
+        </td></tr><tr>
+
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;option&gt; 
+          </font></font></td>
+          <td align="left"><font class="normal">Указывает 
+            каждый отдельный элемент меню</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;textarea name="NAME" 
+            cols=40 rows=8&gt;&lt;/textarea&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            окно для ввода текста.<font color="red"> Columns </font>указывает ширину окна;<font color="red"> rows </font>указывает 
+            его высоту.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input type="checkbox" 
+            name="NAME"&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает<font color="red"> 
+            checkbox</font>. За тегом следует текст.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input type="radio" 
+            name="NAME" value="x"&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            <font color="RED">Radio</font>-кнопку. За тегом следует текст.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input type=text 
+            name="foo" size=20&gt;</font></font></td>
+
+          <td align="left"><font class="normal">Создает 
+            строку для ввода текста. Параметром <font color="red">Size</font> указывается длина в 
+            символах.</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input type="submit" 
+            value="NAME"&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            кнопку <font color="RED">"Принять"</font></font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input type="image" 
+            border=0 name="NAME" src="name.gif"&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            кнопку <font color="RED">"Принять"</font> - для этого используется изображение</font></td></tr>
+        <tr>
+          <td align="left" valign="top"><font color="RED"><font size="4">&lt;input 
+            type="reset"&gt;</font></font></td>
+          <td align="left"><font class="normal">Создает 
+            кнопку <font color="RED">"Отмена" </font></font></td></tr>
+</tbody></table>
+ </p>
