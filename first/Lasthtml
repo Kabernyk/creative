@@ -66,7 +66,7 @@ body {
 
   body {
 
-  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
+  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313) no-repeat;
 
   }
 
