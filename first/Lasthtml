@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<div id="right"><div class="content"><p><center>
+<div id="right"><div class="content"><font align="right"><p>
 
   Привіт! &emsp; &emsp;<br>
   Хух, як добре, що ти все ж натиснув(ла)&emsp;<br>
@@ -50,19 +50,20 @@
  </body>
 
 <style>
+    .right { text-align: right; }
   body {
 
-  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
+  background-image: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
 
-  background-position: center center;
+  background-position: left;
 
   background-repeat: no-repeat;
 
   background-attachment: fixed;
 
-  background-size: cover;
+  background-size: 80%;
 
-  background-color:#464646;
+  background-color:#ffffff;
 
 }
 
@@ -72,7 +73,7 @@
 
   body {
 
-  background-image: url(https://cdn.shopify.com/s/files/1/2997/2714/products/14173.01_1024x1024.jpg?v=1571264313);
+  background-image: url(http://ljplus.ru/img4/m/o/moscowlondon2/central-perk-_3_.JPG);
 
   }
 
