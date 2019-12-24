@@ -17,7 +17,7 @@
 
   background-image: url(https://i.ibb.co/xLz3tQz/image.png);
 
-  background-position: center;
+  background-position: top left;
 
   background-repeat: no-repeat;
 
